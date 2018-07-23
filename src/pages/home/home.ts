@@ -24,6 +24,14 @@ export class HomePage {
     const category1 = new Category();
     category1.name = "TypeScript";
 
+    jwehrwherher
+     we;rjwerj
+     werk;owoejrwe
+     werwejr wer
+     wr
+      werw
+       wer 
+       
     const category2 = new Category();
     category2.name = "Programming";
 
